@@ -78,7 +78,6 @@ Total time elapsed: 0.175 seconds.
 </pre>
 
 * mainGAcode.py :
-------------------
 
 This is the main code . It takes into consideration the different choices of Individual and changes fitness function respectively .
 
