@@ -19,8 +19,8 @@ Individuals are the weather descriptions, and weather preference is measured by 
 		
 This is the trial code with extreemely simple Fitness Function . Here we have assumed that we like sunny days and hate both rainy and windy days . 
 		
- SAMPLE OUTPUT :
- -------------
+SAMPLE OUTPUT FOR TRIAL CODE:
+-----------------------------
 		
 <pre>
 Gen. 0 (0.00%): Max/Min/Avg Fitness(Raw) [0.23(0.68)/0.18(0.01)/0.19(0.19)]
