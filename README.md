@@ -17,7 +17,7 @@ Individuals are the weather descriptions, and weather preference is measured by 
 * trialGAcode.py :
 
 		
-This is the trial code with extreemely simple Fitness Function . Here we have assumed that we like sunny days and hate both rainy and windy days . 
+This is the trial code with extremely simple Fitness Function . Here we have assumed that we like sunny days and hate both rainy and windy days . 
 		
 SAMPLE OUTPUT FOR TRIAL CODE:
 -----------------------------
